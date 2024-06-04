@@ -1,7 +1,7 @@
 # 💫 About Me:
 After 21 years in IT Support roles I'm moving on to things I'm more passionate about. 
 
-Cybersecuirty Degree in Progress 2024
+Cybersecurity Degree in Progress 2024
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuastanden) 
