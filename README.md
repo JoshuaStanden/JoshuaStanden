@@ -1,13 +1,15 @@
 # 💫 About Me:
 After 21 years in IT Support roles I'm moving on to things I'm more passionate about. 
 
-Cybersecurity Degree in Progress 2024!
+Cybersecurity certifications and Degree in Progress 2024!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuastanden) 
 
+
 # Currently working on:
-Proxmox home lab. 3 servers across a variety of hardware. Virtualized services/servers include two pi-hole DNS servers, PLEX server, Wuzah SIEM environment, and currently exploring open source CRM implementations for use in documenting work done in the Wuzah environment. 
+Proxmox home lab: 5 servers across a variety of hardware. Virtualized services/servers include two pi-hole DNS servers, PLEX server, Wuzah SIEM environment, and currently exploring open source CRM implementations for use in documenting work done in the Wuzah environment. 
+
 
 
 # 💻 Tech Stack:
