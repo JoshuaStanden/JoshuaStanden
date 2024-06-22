@@ -3,6 +3,8 @@ After 21 years in IT Support roles I'm moving on to things I'm more passionate a
 
 Cybersecurity certifications and Degree in Progress 2024!
 
+Looking for entry-level Cybersecurity positions.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuastanden) 
 
