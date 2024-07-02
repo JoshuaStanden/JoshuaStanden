@@ -5,9 +5,9 @@ Looking for entry-level or intern Cybersecurity positions in the first quarter o
 
 # Currently working on:
 - Cybersecurity degree 2026 @ WGU
-- Currently working on Coursera/Google Cybersecurity Professional Certificate. June 2024 - 3 out of 8 sections completed. 
-- Homelab
-- Case study involving 200 seats in a Tribal Gaming Casino in Oregon. 
+- Currently working on Coursera/Google Cybersecurity Professional Certificate. June/July 2024 - 3 out of 8 sections completed. 
+- Homelab - SIEM - Wazuh, Ticketing System - osTicket. (virtualized systems) - PiHole x2, Plex, Home Assistant, Windows 10, Windows 11, Linux MINT, Kali, Parrot, Ubuntu Server 24.04/LTS. 
+- Case study involving 200 users in a Tribal Gaming Casino in Oregon. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuastanden) 
