@@ -1,15 +1,13 @@
-# 💫 About Me:
+# About Me:
 After 21 years in IT Support roles, I'm moving on to things I'm more passionate about. 
 
-Cybersecurity degree 2026 @ WGU
-
-Currently working on Coursera/Google Cybersecurity Professional Certificate. June 2024 - 2 out of 8 sections completed. 
-
-Looking for entry-level or intern Cybersecurity positions in the first quarter of 2025. 
-
+Looking for entry-level or intern Cybersecurity positions in the first quarter of 2025.
 
 # Currently working on:
-Proxmox home lab: 5 servers across a variety of hardware. Virtualized services/servers include two pi-hole DNS servers, PLEX server, Wuzah SIEM environment, and currently exploring open source CRM implementations for use in documenting work done in the Wuzah environment. 
+- Cybersecurity degree 2026 @ WGU
+- Currently working on Coursera/Google Cybersecurity Professional Certificate. June 2024 - 3 out of 8 sections completed. 
+- Homelab
+- Case study involving 200 seats in a Tribal Gaming Casino in Oregon. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuastanden) 
