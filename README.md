@@ -1,13 +1,15 @@
 # About Me:
 After 21 years in IT Support roles, I'm moving on to things I'm more passionate about. 
 
-Looking for entry-level or intern Cybersecurity positions in the first quarter of 2025.
+Currently contracted to Cybersprockets.com as a Cybersecurity Consultant
+
+Looking for full-time junior / entry Cybersecurity positions in the first quarter of 2025.
 
 # Currently working on:
 - Cybersecurity degree 2026 @ WGU
 - Currently working on Coursera/Google Cybersecurity Professional Certificate. June/July 2024 - 3 out of 8 sections completed. 
-- Homelab - SIEM - Wazuh, Ticketing System - osTicket. (virtualized systems) - PiHole x2, Plex, Home Assistant, Windows 10, Windows 11, Linux MINT, Kali, Parrot, Ubuntu Server 24.04/LTS.
-- Business Services backend: Digital Ocean! - osTicket, also getting Jira and Slack integrations. 
+- Homelab - SIEM - Wazuh (testing), Ticketing System - osTicket. (virtualized systems) - PiHole x2, Plex, Home Assistant, Windows 10, Windows 11, Linux MINT, Kali, Parrot, Ubuntu Server 24.04/LTS, Security Onion 2.4.X Standard Node.
+- Business Services backend: In progress using Digital Ocean
 - Case study involving 200 users in a Tribal Gaming Casino in Oregon. 
 
 ## 🌐 Socials:
