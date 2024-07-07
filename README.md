@@ -10,7 +10,9 @@ Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybe
 - Currently working on Coursera/Google Cybersecurity Professional Certificate. June/July 2024 - 6 out of 8 sections completed. 
 - Homelab - SIEM/SOAR/Cybersecurity stack - Security Onion 2.4.80, Ticketing System - osTicket. (virtualized systems) - PiHole x2, Plex, Home Assistant, Windows 10, Windows 11, Linux MINT, Kali, Parrot, Ubuntu Server 24.04/LTS.
 - Business Services backend: In progress using Digital Ocean
-- Case study involving 200 users in a Tribal Gaming Casino in Oregon. 
+- Case study involving 200 users in a Tribal Gaming Casino in Oregon.
+- Currently working on an internet exposed RPI honeypot as part of a study project on cybersecurity.
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuastanden) 
