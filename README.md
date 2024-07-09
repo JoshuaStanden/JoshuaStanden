@@ -9,6 +9,7 @@ Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybe
 
 # Currently working on:
 - Cybersecurity degree 2026 @ WGU
+- Coursera / Google: System Administration and IT Infrastructure Services
 - Homelab - SIEM/SOAR/Cybersecurity stack - Security Onion 2.4.80, Ticketing System - osTicket. (virtualized systems) - PiHole x2, Plex, Home Assistant, Windows 10, Windows 11, Linux MINT, Kali, Parrot, Ubuntu Server 24.04/LTS.
 - Business Services backend: In progress using Digital Ocean
 - Case study involving 200 users in a Tribal Gaming Casino in Oregon.
