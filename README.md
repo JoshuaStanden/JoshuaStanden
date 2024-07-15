@@ -3,17 +3,18 @@ After 21 years in IT Support roles, I'm moving on to things I'm more passionate 
 
 Google Cybersecurity Professional Certificate - Just Completed!
 
-Currently contracted to Cybersprockets.com as a Cybersecurity Consultant
+Currently partnered with Cybersprockets.com as a Cybersecurity Consultant.
 
 Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybersecurity analyst in the first quarter of 2025.
 
 # Currently working on:
 - Cybersecurity degree 2026 @ WGU
-- Coursera / Google: System Administration and IT Infrastructure Services
+- Microsoft Cybersecurity Analyst Professional Certificate @ Coursera
 - Homelab - SIEM/SOAR/Cybersecurity stack - Security Onion 2.4.80, Ticketing System - osTicket. (virtualized systems) - PiHole x2, Plex, Home Assistant, Windows 10, Windows 11, Linux MINT, Kali, Parrot, Ubuntu Server 24.04/LTS.
 - Business Services backend: In progress using Digital Ocean
 - Case study involving 200 users in a Tribal Gaming Casino in Oregon.
-- Currently working on an internet exposed RPI honeypot as part of a study project on cybersecurity.
+- Internet exposed RPI honeypot as part of a study project on cybersecurity.
+- Building security apps with the aid of Scapy: https://github.com/secdev/scapy
   
 
 ## 🌐 Socials:
