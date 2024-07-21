@@ -15,7 +15,13 @@ Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybe
 - Case study involving 200 users in a Tribal Gaming Casino in Oregon.
 - Internet exposed RPI honeypot as part of a study project on cybersecurity.
 - Building security apps with the aid of Scapy: https://github.com/secdev/scapy
-  
+
+# How I keep up to date:
+- https://www.infosecurity-magazine.com/
+- https://www.csoonline.com/
+- https://www.darkreading.com/
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuastanden) 
