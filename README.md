@@ -3,6 +3,8 @@ After 21 years in IT Support roles, I'm moving on to things I'm more passionate 
 
 Google Cybersecurity Professional Certificate - Just Completed!
 
+Microsoft Cybersecurity Analyst Certificate - In Progress July/August 2024
+
 Currently partnered with Cybersprockets.com as a Cybersecurity Consultant.
 
 Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybersecurity analyst in the first quarter of 2025.
