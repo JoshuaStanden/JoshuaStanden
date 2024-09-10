@@ -1,9 +1,9 @@
 # About Me:
-After 21 years in IT Support roles, I'm moving on to things I'm more passionate about. 
+21 Years in IT / Technical Support - I'm exploring other roles, and topics I'm passionate about.
 
 Google Cybersecurity Professional Certificate - Just Completed!
 
-Currently partnered with Cybersprockets.com as a Cybersecurity Consultant.
+Currently partnered with Cybersprockets.com as an IT Generalist and Cybersecurity Consultant.
 
 Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybersecurity analyst in the first quarter of 2025.
 
