@@ -10,17 +10,16 @@ Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybe
 # Currently working on:
 - Cybersecurity degree 2026 @ WGU
 - Microsoft Cybersecurity Analyst Professional Certificate @ Coursera
-- Homelab - Security Onion 2.4.80, Ticketing System - osTicket. (virtualized systems) - PiHole x2, Plex, Home Assistant, Windows 10, Windows 11, Linux MINT, Kali, Parrot, Ubuntu Server 24.04/LTS.
+- "Homelab" - osTicket, PiHole x2, Plex, Home Assistant, Windows 10, Windows 11, Linux MINT, Kali, Parrot, Ubuntu Server 24.04/LTS, Ubuntu Server 22.04/LTS.
 - MSP/Security Stack so far:
     - Wazuh
-    - TacticalRMM
+    - level.io
     - Pi Hole (primary and secondary)
     - URBackup
-    - Security Onion 2.4.X
     - osTicket
     
 
-- Business Services backend: In progress using Linode
+- Business Services backend: ready to go! thanks to linode
 - Case study involving 200 users in a Tribal Gaming Casino in Oregon.
 - Internet exposed RPI honeypot as part of a study project on cybersecurity.
 - Building security apps with the aid of Scapy: https://github.com/secdev/scapy
