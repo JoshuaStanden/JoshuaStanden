@@ -8,8 +8,8 @@ Currently partnered with Cybersprockets.com as an IT Generalist and Cybersecurit
 Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybersecurity analyst in the first quarter of 2025.
 
 # Currently working on:
+- Working on certs right now: ITIL4 Foundations, Security+, Google IT Support Professional. 
 - Cybersecurity degree 2026 @ WGU
-- Microsoft Cybersecurity Analyst Professional Certificate @ Coursera
 - "Homelab" - osTicket, PiHole x2, Plex, Home Assistant, Windows 10, Windows 11, Linux MINT, Kali, Parrot, Ubuntu Server 24.04/LTS, Ubuntu Server 22.04/LTS.
 - MSP/Security Stack so far:
     - Wazuh
