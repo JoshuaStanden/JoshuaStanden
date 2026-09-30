@@ -9,8 +9,7 @@ Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybe
 
 # Currently working on:
 - Working on certs right now: ITIL4 Foundations, Security+, Google IT Support Professional. 
-- Cybersecurity degree 2026 @ WGU
-- "Homelab" - osTicket, PiHole x2, Plex, Home Assistant, Windows 10, Windows 11, Linux MINT, Kali, Parrot, Ubuntu Server 24.04/LTS, Ubuntu Server 22.04/LTS.
+- "Homelab" - PiHole x2, Plex, Windows 10, Windows 11, Linux MINT, Ubuntu Desktop, Ubuntu Server, Kali, Parrot
 - MSP/Security Stack so far:
     - Wazuh
     - level.io
@@ -20,8 +19,6 @@ Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybe
     
 
 - Business Services backend: ready to go! thanks to linode
-- Case study involving 200 users in a Tribal Gaming Casino in Oregon.
-- Internet exposed RPI honeypot as part of a study project on cybersecurity.
 - Building security apps with the aid of Scapy: https://github.com/secdev/scapy
 
 # How I keep up to date:
