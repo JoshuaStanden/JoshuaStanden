@@ -1,9 +1,10 @@
 # About Me:
-21 Years in IT / Technical Support - I'm exploring other roles, and topics I'm passionate about.
+
+Currently at Amazon/eero as a Network Support Specialist
+
+22 Years in IT / Technical Support / Telecom - I'm exploring other roles, and topics I'm passionate about.
 
 Google Cybersecurity Professional Certificate - Just Completed!
-
-Currently partnered with Cybersprockets.com as an IT Generalist and Cybersecurity Consultant.
 
 Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybersecurity analyst in the first quarter of 2025.
 
@@ -16,7 +17,6 @@ Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybe
     - Pi Hole (primary and secondary)
     - URBackup
     - osTicket
-    
 
 - Business Services backend: ready to go! thanks to linode
 - Building security apps with the aid of Scapy: https://github.com/secdev/scapy
