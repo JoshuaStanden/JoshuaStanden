@@ -21,8 +21,20 @@ Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybe
 - Business Services backend: ready to go! thanks to linode
 - Building security apps with the aid of Scapy: https://github.com/secdev/scapy
 
-- https://github.com/patrickrkearney/FootHoled
+I am working with a long time friend of mine on a project that he started called "FootHoled"
 
+You can check out the github repos listed below for his original project and then my two variants:
+
+- https://github.com/patrickrkearney/FootHoled
+- https://github.com/JoshuaStanden/NOTB
+- https://github.com/JoshuaStanden/FootHoled
+
+Due to the way some automated tools keep github repos separated I decided to give the "NOT B" version of the waveshare board its own repo completely, not just its own branch. 
+
+Also, giving credit where credit is due, I created some of this code using:
+
+- https://kiro.dev/
+  
 # How I keep up to date:
 - https://www.infosecurity-magazine.com/
 - https://www.csoonline.com/
