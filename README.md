@@ -8,32 +8,34 @@ Google Cybersecurity Professional Certificate - Just Completed!
 
 Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybersecurity analyst in the first quarter of 2025.
 
-# Currently working on:
-- Working on certs right now: ITIL4 Foundations, Security+, Google IT Support Professional. 
-- "Homelab" - PiHole x2, Plex, Windows 10, Windows 11, Linux MINT, Ubuntu Desktop, Ubuntu Server, Kali, Parrot
-- MSP/Security Stack so far:
-    - Wazuh
-    - level.io
-    - Pi Hole (primary and secondary)
-    - URBackup
-    - osTicket
-
-- Business Services backend: ready to go! thanks to linode
+# What I'm working on right now:
+- Network+ and CWTS Certs
+- Other certs on the back burner: ITIL Foundations, Security+, Google IT Support Professional. 
 - Building security apps with the aid of Scapy: https://github.com/secdev/scapy
 
-I am working with a long time friend of mine on a project that he started called "FootHoled"
+I am working with a long-time friend of mine on a project that he started called "FootHoled"
 
-You can check out the github repos listed below for his original project and then my two variants:
+You can check out the GitHub repos listed below for his original project and then my two variants:
 
 - https://github.com/patrickrkearney/FootHoled
-- https://github.com/JoshuaStanden/NOTB
-- https://github.com/JoshuaStanden/FootHoled
+    - Check out my repos for a fork of this and what I'm currently working on. 
 
-Due to the way some automated tools keep github repos separated I decided to give the "NOT B" version of the waveshare board its own repo completely, not just its own branch. 
+Due to the way some automated tools keep GitHub repos separated, I decided to give the "NOT B" version of the waveshare board its own repo completely, not just its own branch. 
 
 Also, giving credit where credit is due, I created some of this code using:
 
 - https://kiro.dev/
+
+# Shelved Activities for now (I'm no longer working on a security-based homelab):
+- "Homelab" - PiHole x2, Plex, Windows 10, Windows 11, Linux MINT, Ubuntu Desktop, Ubuntu Server, Kali, Parrot
+- MSP/Security Stack so far:
+    - Wazuh
+    - level.io
+    - Pi Hole (primary and secondary dns)
+    - URBackup
+    - osTicket
+- Business Services backend: ready to go! thanks to linode
+
   
 # How I keep up to date:
 - https://www.infosecurity-magazine.com/
