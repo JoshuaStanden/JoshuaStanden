@@ -58,3 +58,19 @@ Also, giving credit where credit is due, I created some of this code using:
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
 [![Plex](https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white)](https://www.plex.tv/)
 [![eero](https://img.shields.io/badge/eero-WiFi-1A1A1A?style=for-the-badge)](https://eero.com/)
+
+<!-- Certifications -->
+[![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://grow.google/certificates/cybersecurity/)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-In_Progress-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/network)
+[![Python for Everybody](https://img.shields.io/badge/Python_for_Everybody-Completed-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.py4e.com/)
+
+<!-- Experience -->
+[![Network Troubleshooting](https://img.shields.io/badge/Network_Troubleshooting-20%2B_Years-0A66C2?style=for-the-badge)](#)
+[![DNS](https://img.shields.io/badge/DNS-ISP_Co--Management-2E7D32?style=for-the-badge)](#)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge)](https://www.salesforce.com/)
+
+<!-- Home Lab -->
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![XCP-ng](https://img.shields.io/badge/XCP--ng-00ADB5?style=for-the-badge)](https://xcp-ng.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
