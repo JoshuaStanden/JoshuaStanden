@@ -71,5 +71,3 @@ Also, giving credit where credit is due, I created some of this code using:
 <!-- Experience -->
 [![Network Troubleshooting](https://img.shields.io/badge/Network_Troubleshooting-20%2B_Years-0A66C2?style=for-the-badge)](#)
 [![DNS](https://img.shields.io/badge/DNS-ISP_Co--Management-2E7D32?style=for-the-badge)](#)
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge)](https://www.salesforce.com/)
-
