@@ -38,9 +38,11 @@ Also, giving credit where credit is due, I created some of this code using:
 
   
 # How I keep up to date:
-- https://www.infosecurity-magazine.com/
-- https://www.csoonline.com/
-- https://www.darkreading.com/
+- https://www.youtube.com/@LowLevelTV
+- https://www.youtube.com/@_JohnHammond
+- https://www.youtube.com/@mattbrwn
+- https://www.wired.com/category/cyberattacks-hacks/
+- https://news.ycombinator.com/
 
 
 
