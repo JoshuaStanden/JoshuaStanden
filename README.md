@@ -9,11 +9,8 @@ Google Cybersecurity Professional, Certified Wireless Network Professional - Cer
 # What I'm working on right now:
 - Network+ Coming November or December 2026
 - Building security apps with the aid of Scapy: https://github.com/secdev/scapy
-- https://github.com/patrickrkearney/FootHoled
-    - Check out my repos for a fork of this and what I'm currently working on. 
-    - Also, giving credit where credit is due, I created some of this code using:
-            - https://kiro.dev/
-            - Hermes Agent and GLM5.3-Flash
+- https://github.com/patrickrkearney/FootHoled, Check out my repos for a fork of this and what I'm currently working on. 
+- Also, giving credit where credit is due, I created some of this code using: https://kiro.dev/ and Hermes Agent / GLM5.3-Flash LLM 
 
 # Personal Cybersecurity Concierge Services: https://www.5thoctetgroup.com/
 # Security Stack for "5og" or "5thOctetGroup"
