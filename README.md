@@ -4,37 +4,25 @@ Currently at Amazon/eero as a Network Support Specialist
 
 22 Years in IT / Technical Support / Telecom - I'm exploring other roles, and topics I'm passionate about.
 
-Google Cybersecurity Professional Certificate, Certified Wireless Network Professional - Certified Wireless Technology Specialist
-
-Looking for full-time / part-time / contractor as a junior / Tier 1 / entry cybersecurity analyst in the first quarter of 2025.
+Google Cybersecurity Professional, Certified Wireless Network Professional - Certified Wireless Technology Specialist
 
 # What I'm working on right now:
-- Network+
-- Other certs on the back burner: ITIL Foundations, Security+, Google IT Support Professional. 
+- Network+ Coming November or December 2026
 - Building security apps with the aid of Scapy: https://github.com/secdev/scapy
-
-I am working with a long-time friend of mine on a project that he started called "FootHoled"
-
-You can check out the GitHub repos listed below for his original project and then my two variants:
-
 - https://github.com/patrickrkearney/FootHoled
     - Check out my repos for a fork of this and what I'm currently working on. 
+    - Also, giving credit where credit is due, I created some of this code using:
+            - https://kiro.dev/
+            - Hermes Agent and GLM5.3-Flash
 
-Due to the way some automated tools keep GitHub repos separated, I decided to give the "NOT B" version of the waveshare board its own repo completely, not just its own branch. 
-
-Also, giving credit where credit is due, I created some of this code using:
-
-- https://kiro.dev/
-
-# Shelved Activities for now (I'm no longer working on a security-based homelab):
-- "Homelab" - PiHole x2, Plex, Windows 10, Windows 11, Linux MINT, Ubuntu Desktop, Ubuntu Server, Kali, Parrot
-- MSP/Security Stack so far:
-    - Wazuh
-    - level.io
-    - Pi Hole (primary and secondary dns)
-    - URBackup
-    - osTicket
-- Business Services backend: ready to go! thanks to linode
+# Personal Cybersecurity Concierge Services: https://www.5thoctetgroup.com/
+# Security Stack for "5og" or "5thOctetGroup"
+- Wazuh
+- level.io
+- Hexnode
+- Pi Hole
+- URBackup
+- osTicket
 
   
 # How I keep up to date:
